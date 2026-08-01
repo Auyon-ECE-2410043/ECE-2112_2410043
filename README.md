@@ -51,5 +51,5 @@ _*Heaven’s Light is Our Guide*_
 ## INDEX:
 | Lab No. | Title | Link |
 | :---: | :---: | :---: | 
-| 01 | Class & Objects | [Lab_01]
+| 01 | Class & Objects | [Lab_01](https://github.com/Auyon-ECE-2410043/ECE-2112_2410043/blob/main/Lab_01.md)
 
