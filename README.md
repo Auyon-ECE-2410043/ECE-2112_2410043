@@ -49,7 +49,8 @@ _*Heaven’s Light is Our Guide*_
 <div align="center">
   
 ## INDEX:
-| Lab No. | Title | Link |
-| :---: | :---: | :---: | 
-| 01 | Class & Objects | [Lab_01](https://github.com/Auyon-ECE-2410043/ECE-2112_2410043/blob/main/Lab_01.md)
+| Lab No. | Title | Link | Direct PDF |
+| :---: | :---: | :---: | :---: |
+| 01 | Logic Gate Operations | [Lab_01](https://github.com/Auyon-ECE-2410043/ECE-2112_2410043/blob/main/Lab_01.md) | [Lab_01 (2410043).pdf](https://github.com/user-attachments/files/30622514/Lab_01.2410043.pdf) |
+
 
