@@ -52,3 +52,4 @@ _*Heaven’s Light is Our Guide*_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: | 
 | 01 | Logic Gate Operations | [Lab_01](https://github.com/Auyon-ECE-2410043/ECE-2112_2410043/blob/main/Lab/Lab_01%20(2410043).pdf) | 
+| 02 | Boolean Expression Solving | [Lab_02](https://github.com/Auyon-ECE-2410043/ECE-2112_2410043/blob/main/Lab/Lab_02%20(2410043)%20main.pdf) |
